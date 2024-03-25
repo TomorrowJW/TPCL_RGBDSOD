@@ -81,7 +81,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 ### 3.2 Evaluating your trained model:
 
 One evaluation is written in MatLab codes ([link](https://drive.google.com/file/d/1-fXbORnXNVfvm7uarXLX6w9PuVhs-25d/view?usp=sharing)), 
-please follow the instructions in `main.m` and just run it to generate the evaluation results.
+please follow the instructions in `main.m` and just run it to generate the evaluation results. You also download the `EvaluationCode files` for evaluating.
 We provide `quantitative results` and `.mat files`, please refer to the folder `Results`.
 
 ### 3.3 Parameters, FLOPs and FPS
