@@ -1,0 +1,1 @@
+(Dataset:DES; Model:Net_2985) Smeasure:0.941; MAE:0.015; adpEm:0.977; meanEm:0.972; maxEm:0.977; adpFm:0.926; meanFm:0.927; maxFm:0.942.

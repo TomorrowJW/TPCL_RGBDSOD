@@ -1,0 +1,1 @@
+(Dataset:SIP; Model:Net_2985) Smeasure:0.902; MAE:0.035; adpEm:0.939; meanEm:0.942; maxEm:0.946; adpFm:0.909; meanFm:0.910; maxFm:0.922.

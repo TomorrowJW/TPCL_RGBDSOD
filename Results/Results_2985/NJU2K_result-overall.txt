@@ -1,0 +1,1 @@
+(Dataset:NJU2K; Model:Net_2985) Smeasure:0.926; MAE:0.028; adpEm:0.928; meanEm:0.954; maxEm:0.959; adpFm:0.921; meanFm:0.921; maxFm:0.930.

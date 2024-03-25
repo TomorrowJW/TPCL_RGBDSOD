@@ -1,0 +1,1 @@
+(Dataset:NLPR; Model:Net_2985) Smeasure:0.936; MAE:0.017; adpEm:0.966; meanEm:0.966; maxEm:0.970; adpFm:0.913; meanFm:0.917; maxFm:0.930.

@@ -1,0 +1,1 @@
+(Dataset:LFSD; Model:Net_2985) Smeasure:0.892; MAE:0.049; adpEm:0.913; meanEm:0.922; maxEm:0.926; adpFm:0.885; meanFm:0.882; maxFm:0.888.

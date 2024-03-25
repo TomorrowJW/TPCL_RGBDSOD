@@ -1,0 +1,1 @@
+(Dataset:DUT-RGBD; Model:Net_2185) Smeasure:0.936; MAE:0.024; adpEm:0.960; meanEm:0.963; maxEm:0.967; adpFm:0.936; meanFm:0.935; maxFm:0.946.

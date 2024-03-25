@@ -1,0 +1,1 @@
+(Dataset:STERE; Model:Net_2985) Smeasure:0.920; MAE:0.029; adpEm:0.931; meanEm:0.953; maxEm:0.960; adpFm:0.900; meanFm:0.902; maxFm:0.922.
