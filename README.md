@@ -62,7 +62,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
     which can be found from [Baidu Drive](https://pan.baidu.com/s/1S7qUTEEQ3fiVknBzksSdnw) (extraction code: rlb4). 
 
     + downloading our weights and move it into `./save_models/2985_L.pth` or `./save_models/2185_L.pth`, 
-    which can be found from [(Baidu Drive)]() (extraction code: ). 
+    which can be found from [(Baidu Drive)](https://pan.baidu.com/s/1RYWrbykZ3Ifjv75q9-qYUg) (extraction code: udjz). 
     
     + downloading Swin V2 weights and move it into `./pre_train/swinv2_base_patch4_window16_256.pth`,
     which can be found from [Baidu Drive](https://pan.baidu.com/s/1a2CiC2ptNhysKpYXpP4vIw) (extraction code:2vrr). 
