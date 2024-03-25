@@ -1,0 +1,38 @@
+#2985
+Parameters: 112.669 M
+Number of parameter : 112.67M
+gflops: 212.02 G
+
+STERE is Running time 0.04492
+STERE is Average speed:22.2609 fps
+NLPR is Running time 0.04556
+NLPR is Average speed:21.9507 fps
+SIP is Running time 0.04552
+SIP is Average speed:21.9664 fps
+LFSD is Running time 0.04502
+LFSD is Average speed:22.2147 fps
+DUT-RGBD is Running time 0.04501
+DUT-RGBD is Average speed:22.2171 fps
+NJU2K is Running time 0.04553
+NJU2K is Average speed:21.9621 fps
+DES is Running time 0.04489
+DES is Average speed:22.2791 fps
+
+#2185
+Parameters: 112.669 M
+Number of parameter : 112.67M
+gflops: 212.02 G
+STERE is Running time 0.04436
+STERE is Average speed:22.5434 fps
+NLPR is Running time 0.04458
+NLPR is Average speed:22.4318 fps
+SIP is Running time 0.04508
+SIP is Average speed:22.1851 fps
+LFSD is Running time 0.04592
+LFSD is Average speed:21.7756 fps
+DUT-RGBD is Running time 0.04485
+DUT-RGBD is Average speed:22.2977 fps
+NJU2K is Running time 0.04453
+NJU2K is Average speed:22.4592 fps
+DES is Running time 0.04456
+DES is Average speed:22.4421 fps
