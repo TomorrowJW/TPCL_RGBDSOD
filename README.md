@@ -77,6 +77,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
     + After you download all the pre-trained models and testing datasets, just run `test.py` to generate the final prediction maps.
     
     + You can also download prediction maps ('NJU2K', 'NLPR', 'DUT-RGBD', 'STERE', 'LFSD', 'SIP', 'DES') from [Baidu Drive]() (extraction code: )).
+      and move them into `./save_results/XX`,
 
 ### 3.2 Evaluating your trained model:
 
