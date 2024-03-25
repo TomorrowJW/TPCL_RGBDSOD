@@ -13,7 +13,7 @@ from Data_Loader import get_loader
 from utils import clip_gradient,warmup_poly,poly_lr
 from config import Config
 import matplotlib.pyplot as plt
-from loss.CLLoss import CLoss,CLoss_New,CLoss_1
+from loss.CLLoss import CLoss_1
 from loss.edge_loss import cross_entropy2d_edge,dice_loss
 from loss.HEL_loss import HEL
 
@@ -54,8 +54,7 @@ def train():
     for epoch in range(cfg.num_epochs):
         poly_lr(optimizer,cfg.lr,epoch,cfg.num_epochs)
         model.train()
-        ep_los = 0
-        ep_cl = 0
+         
         for i,data in enumerate(train_dataloader, start=1): 
             optimizer.zero_grad() 
             
@@ -78,8 +77,6 @@ def train():
 
 
             loss = cfg.c * loss_cl + cfg.b * loss_ed +cfg.a * loss_ce
-            lo.append(loss.item())
-
             loss.backward()
 
             clip_gradient(optimizer, cfg.clip)
