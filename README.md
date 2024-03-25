@@ -78,7 +78,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
     
     + You can also download prediction maps (2985 images for Training setting) ('NJU2K', 'NLPR', 'DUT-RGBD', 'STERE', 'LFSD', 'SIP', 'DES') from [Baidu Drive](https://pan.baidu.com/s/1-vdAFEIO4g-72b2y79D9aQ) (extraction code: gjuo)), and (2185 images for Training setting) ('NJU2K', 'NLPR', 'DUT-RGBD', 'STERE', 'LFSD', 'SIP', 'DES') from [Baidu Drive](https://pan.baidu.com/s/1cNH4uK7zQCucrUzRclQz4A) (extraction code: edl7). Then, moving them into `./save_results/XX`.
 
-### 3.2 Evaluating your trained model:
+### 3.2 Evaluating Results:
 
 One evaluation is written in MatLab codes ([link](https://drive.google.com/file/d/1-fXbORnXNVfvm7uarXLX6w9PuVhs-25d/view?usp=sharing)), 
 please follow the instructions in `main.m` and just run it to generate the evaluation results. You also download the `EvaluationCode files` for evaluating.
